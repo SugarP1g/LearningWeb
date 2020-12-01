@@ -1,6 +1,7 @@
 # LearningWeb
 
 - **JavaScript**
+  - [JavaScript教程](https://www.liaoxuefeng.com/wiki/1022910821149312)
   - [ES6 入门教程](https://es6.ruanyifeng.com/)
 - **vue**
   - [vuejs官方文档](https://cn.vuejs.org/v2/guide/)
