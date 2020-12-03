@@ -7,6 +7,7 @@
 - **vue**
   - 官方文档
     - [vuejs官方文档](https://cn.vuejs.org/v2/guide/)
+    - [vue cookbook](https://cn.vuejs.org/v2/cookbook/index.html)
     - [Vue Router](https://router.vuejs.org/zh/)
     - [vuex官方文档](https://vuex.vuejs.org/zh/)
   - vue配套UI
